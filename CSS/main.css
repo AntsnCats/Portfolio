@@ -1,0 +1,20 @@
+html {
+    background-color: lightblue;
+}
+h2 {
+    color: darkmagenta;
+    font-family: monospace;
+}
+p {
+    color: darkgreen;
+}
+h1 {
+    font-family: "Papyrus", fantasy;
+}
+header {
+    font-size: 20px;
+}
+footer {
+    font-size: 10px;
+}
+
