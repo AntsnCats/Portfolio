@@ -1,15 +1,17 @@
 html {
-    background-color: lightblue;
+    background-color: #d5e1dd;
 }
 h2 {
-    color: darkmagenta;
+    color: 	#61a298;
     font-family: monospace;
 }
 p {
-    color: darkgreen;
+    color: #3e4a4b;
 }
 h1 {
-    font-family: "Papyrus", fantasy;
+    font-family: 'Times New Roman', Times, serif;
+    color: 	#90aeae;
+    text-align: center;
 }
 header {
     font-size: 20px;
@@ -17,4 +19,27 @@ header {
 footer {
     font-size: 10px;
 }
-
+section ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+section ul li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#Header {
+    background-color: #333333;
+    margin: -8;
+    padding: 5;
+}
+.hide {
+    display: none;
+}
